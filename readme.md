@@ -6,18 +6,18 @@
     <img src="https://img.shields.io/github/stars/brian-emarquez/genexus-training.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/brian-emarquez/genexus-training/network">
-    <img src="https://img.shields.io/github/forks/rian-emarquez/genexus-training.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/brian-emarquez/genexus-training.svg?style=flat" alt="Forks">
   
   </a>
-    <img src="https://img.shields.io/github/downloads/Brian-emarquez/genexus-training/total?color=violet">
-    <img src="https://img.shields.io/github/downloads/Brian-emarquez/genexus-training/total?color=green">
+    <img src="https://img.shields.io/github/downloads/brian-emarquez/genexus-training/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/brian-emarquez/genexus-training/total?color=green">
   </a>
    </a>
    <a href="https://github.com/Brian-emarquez/genexus-training/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
-   <img src="https://img.shields.io/github/last-commit/Brian-emarquez/genexus-training?color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/Brian-emarquez/genexus-training?style=for-the-badge">
+   <img src="https://img.shields.io/github/last-commit/brian-emarquez/genexus-training?color=blue&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/brian-emarquez/genexus-training?style=for-the-badge">
 </P>
   
 
@@ -35,7 +35,8 @@
 ## Downloads
 
 📦 [Install Genexus ](https://training.genexus.com/en/) Learn GeneXus <br>
-📦 [Install SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) <br>
+📦 [Install SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) Microsoft SQL Server
+ <br>
 
 
 ---
