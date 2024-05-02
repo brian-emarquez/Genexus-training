@@ -2,7 +2,6 @@
 <h2 align="center"> Training GeneXus </h2>
 
 <p align="center">
-  
   <a href="https://github.com/brian-emarquez/genexus-training/stargazers">
     <img src="https://img.shields.io/github/stars/brian-emarquez/genexus-training.svg?style=flat" alt="Stars">
   </a>
@@ -21,6 +20,8 @@
   <img src="https://img.shields.io/github/languages/count/Brian-emarquez/genexus-training?style=for-the-badge">
 </P>
   
+
+  [Training GeneXus](https://training.genexus.com/en/)
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
