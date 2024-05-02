@@ -3,7 +3,6 @@
 
 <p align="center">
   
-
   <a href="https://github.com/brian-emarquez/genexus-training/stargazers">
     <img src="https://img.shields.io/github/stars/brian-emarquez/genexus-training.svg?style=flat" alt="Stars">
   </a>
