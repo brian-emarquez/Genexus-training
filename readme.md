@@ -1,24 +1,14 @@
 
-<h2 align="center"> Learn PHP - MySQL Beginner To Advanced | PHP - MySQL Training 🐘&nbsp;</h2>
+<h2 align="center"> Training GeneXus </h2>
 
 <p align="center">
   
-   </a>
-    <img src="https://img.shields.io/github/languages/top/brian-emarquez/genexus-training?color=red">
+
+  <a href="https://github.com/brian-emarquez/genexus-training/stargazers">
+    <img src="https://img.shields.io/github/stars/brian-emarquez/genexus-training.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/rian-emarquez/genexus-training/stargazers">
-    <img src="https://img.shields.io/github/stars/rian-emarquez/genexus-training.svg?style=flat" alt="Stars">
-  </a>
-  <a href="https://github.com/rian-emarquez/genexus-training/network">
+  <a href="https://github.com/brian-emarquez/genexus-training/network">
     <img src="https://img.shields.io/github/forks/rian-emarquez/genexus-training.svg?style=flat" alt="Forks">
-  </a>
-    <img src="https://img.shields.io/github/v/tag/Brian-emarquez/genexus-training?color=gren&label=Version&logo=php">
-    <img src="https://img.shields.io/github/v/tag/Brian-emarquez/genexus-training?color=red&label=Version&logo=php">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/Brian-emarquez/genexus-training">
-  </a>
   
   </a>
     <img src="https://img.shields.io/github/downloads/Brian-emarquez/genexus-training/total?color=violet">
@@ -28,7 +18,7 @@
    <a href="https://github.com/Brian-emarquez/genexus-training/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
-   <img src="https://img.shields.io/github/last-commit/Brian-emarquez/genexus-training?color=darkrose&style=for-the-badge">
+   <img src="https://img.shields.io/github/last-commit/Brian-emarquez/genexus-training?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/Brian-emarquez/genexus-training?style=for-the-badge">
 </P>
 
