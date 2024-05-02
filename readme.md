@@ -21,7 +21,6 @@
    <img src="https://img.shields.io/github/last-commit/Brian-emarquez/genexus-training?color=blue&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/Brian-emarquez/genexus-training?style=for-the-badge">
 </P>
-
   
 <table align="center">
   <tr>
